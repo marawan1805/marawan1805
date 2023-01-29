@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my first big project**
 
-- 🌱 I’m currently learning **Typescript, Docker, Kubernetes, Redis**
+- 🌱 I’m currently learning **Typescript, GraphQL, Docker, Kubernetes, Redis**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
