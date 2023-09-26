@@ -8,8 +8,6 @@
 
 - ✍️ I’m currently learning **Typescript, NextJS, GraphQL**
  
-- 🌱 Learning next **Docker, Kubernetes, Redis**
-
 - 👯 I’m looking to collaborate on **open source projects**
 
 - 📫 How to reach me **marawanabdelr@gmail.com**
