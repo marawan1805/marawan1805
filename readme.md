@@ -5,8 +5,6 @@
 
 
 - 🔭 I’m currently working on **my first big project**
-
-- ✍️ I’m currently learning **Typescript, NextJS, GraphQL**
  
 - 👯 I’m looking to collaborate on **open source projects**
 
